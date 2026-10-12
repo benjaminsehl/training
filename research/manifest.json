@@ -1,0 +1,565 @@
+{
+  "prepared": "2026-10-12",
+  "notes": [
+    {
+      "file": "research/2026-05-03-concurrent-training-interference.md",
+      "historical_note_date": "2026-05-03",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "9abd60ea50a9011287aaaa789282acbde2505d88756759e0f280faa16812f2a0"
+    },
+    {
+      "file": "research/2026-05-04-long-muscle-length-training.md",
+      "historical_note_date": "2026-05-04",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "4eb55e30d4ee00c2dd82d9c25ca93dd5e264d752727f099beae9c8380c0256da"
+    },
+    {
+      "file": "research/2026-05-05-vo2max-hiit-protocols.md",
+      "historical_note_date": "2026-05-05",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "7cea9eab10308bd139ee461ea4eb02e1385be244376225e8bb7b84d414d41e54"
+    },
+    {
+      "file": "research/2026-05-06-beginner-calisthenics-integration.md",
+      "historical_note_date": "2026-05-06",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "8b507fbb8e091c3d2e3b37c183ed6b62b87e2f703a993f967b9b6fa037fceaea"
+    },
+    {
+      "file": "research/2026-05-07-inter-set-rest-hypertrophy.md",
+      "historical_note_date": "2026-05-07",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "8fd705a3ac9801210e32851c2a1b39011ea86836a81e548e1fa2caf46a227680"
+    },
+    {
+      "file": "research/2026-05-08-deloads-fatigue-management.md",
+      "historical_note_date": "2026-05-08",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "b06a25f7708e251a3497869eff01056d53ea044648a567d3275f02d6ca1d1671"
+    },
+    {
+      "file": "research/2026-05-09-exercise-order-prioritization.md",
+      "historical_note_date": "2026-05-09",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "a6c283bbe1448317277fc8a66e66e0e59a232833a6ee8c0590c42e7851609d2a"
+    },
+    {
+      "file": "research/2026-05-10-training-frequency-hypertrophy.md",
+      "historical_note_date": "2026-05-10",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "b1b585d32e2ac71f0776bf209d3654a7e3b8277516d954c83a27f216a518aac2"
+    },
+    {
+      "file": "research/2026-05-11-zone-2-hiit-hybrid-conditioning.md",
+      "historical_note_date": "2026-05-11",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "b91534cf20c7630c1d3988d2841434c4610841d8c5fceae575e011eacb73a77a"
+    },
+    {
+      "file": "research/2026-05-12-tendon-load-management.md",
+      "historical_note_date": "2026-05-12",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "78ab43b61e4ad4f7d35a87e7b9a578844499aff6643ea4f5c5867b64746e8779"
+    },
+    {
+      "file": "research/2026-05-13-loaded-carries-hybrid-accessory.md",
+      "historical_note_date": "2026-05-13",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "56ca4ffe25768489b3495819f25dad34de13cf1528a01a1d740e013edc79121e"
+    },
+    {
+      "file": "research/2026-05-14-proximity-to-failure-rir.md",
+      "historical_note_date": "2026-05-14",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "8eca9cbb4671e8cdda63fe9e7b9b1cdbb4d056ff51be8c45f506edf6f1a9af0d"
+    },
+    {
+      "file": "research/2026-05-15-free-weights-machines-hypertrophy.md",
+      "historical_note_date": "2026-05-15",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "b6aebbf498cf374fd00ed73aa613dbb0105668d4d78edbca49ab5fe5dea4041e"
+    },
+    {
+      "file": "research/2026-05-16-supersets-time-efficient-hypertrophy.md",
+      "historical_note_date": "2026-05-16",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "326551336d37ce6bec49db1fe535f5f7998ca3c0bc6ce911cfcd32bdda6f6902"
+    },
+    {
+      "file": "research/2026-05-17-range-of-motion-hypertrophy.md",
+      "historical_note_date": "2026-05-17",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "ad1e3be3eef0905b050d6ddc6472da9dd6b80dae79f8b65ece0a44b2d65f8e14"
+    },
+    {
+      "file": "research/2026-05-18-deloads-periodization-fatigue.md",
+      "historical_note_date": "2026-05-18",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "17e10f521a3eddf3745a664297cec6d4abfdc8d172cf0d3e2b1827c873651f70"
+    },
+    {
+      "file": "research/2026-05-19-warmups-ramp-sets.md",
+      "historical_note_date": "2026-05-19",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "1b7655008b324a18bdcb5ff81f2560c18af3128d65126e2803ccc8ff9583e900"
+    },
+    {
+      "file": "research/2026-05-20-weekly-volume-hypertrophy.md",
+      "historical_note_date": "2026-05-20",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "de74c29a49a2ca1a3ecfca6fcd7c248b024736de0bd7868105e28a0790bf7e26"
+    },
+    {
+      "file": "research/2026-05-21-concurrent-training-sequencing.md",
+      "historical_note_date": "2026-05-21",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "f89ddfe5003a7ff1b61b698533b212cf6fc3062a0459de3945868db97cbb3346"
+    },
+    {
+      "file": "research/2026-05-22-repetition-tempo-hypertrophy.md",
+      "historical_note_date": "2026-05-22",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "718703bcda116265b7d228baaf7cc4701735c42315ee4d48f96930e060b8d3b0"
+    },
+    {
+      "file": "research/2026-05-23-exercise-selection-variation.md",
+      "historical_note_date": "2026-05-23",
+      "status": "generalized-import-unverified",
+      "source_count": 4,
+      "sha256": "71e7e761e5dd8e090a408c99a451a44c7ae6ee46cfeabdf0e7c0caae14dcd2ee"
+    },
+    {
+      "file": "research/2026-05-24-resistance-training-prescription-hierarchy.md",
+      "historical_note_date": "2026-05-24",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "910096e6d3715f49dad483b23b7028a3823d87dd9f1ae5b05a5af76f1b9e876c"
+    },
+    {
+      "file": "research/2026-05-25-plyometrics-hybrid-training.md",
+      "historical_note_date": "2026-05-25",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "5691fa1b1e414701aadb2825e53fcbc7d7c295e0f0c56436048b70919c2a152d"
+    },
+    {
+      "file": "research/2026-05-26-blood-flow-restriction-training.md",
+      "historical_note_date": "2026-05-26",
+      "status": "generalized-import-unverified",
+      "source_count": 4,
+      "sha256": "4e950811b1b528c8ec0686d946ccd2ae94e36d3a2c295006f7aee8c3934572d0"
+    },
+    {
+      "file": "research/2026-06-01-unilateral-vs-bilateral-training.md",
+      "historical_note_date": "2026-06-01",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "70a1718eca101e4e41be84fd6adf60c77fab19d78bcb08f753e12c7b090a9e54"
+    },
+    {
+      "file": "research/2026-06-02-grip-strength-training.md",
+      "historical_note_date": "2026-06-02",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "9c78faa54e85d45ee60127391a39d4447676a14c2543c3b45d64b73c2447a71d"
+    },
+    {
+      "file": "research/2026-06-03-eccentric-tempo.md",
+      "historical_note_date": "2026-06-03",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "cc2f41071459d28630b4b60eb076e67e7c3f44fee2646c93142e39f213f5bd52"
+    },
+    {
+      "file": "research/2026-06-04-unstable-surface-training.md",
+      "historical_note_date": "2026-06-04",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "4f34b3166c58cad8905e49293b1c87a96fa0d69919a7ca0bbf1dc12f72e17246"
+    },
+    {
+      "file": "research/2026-06-05-velocity-loss-thresholds.md",
+      "historical_note_date": "2026-06-05",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "e83a2e942a089cfe96e30061ae55b27318cb550622d81411510b3abe6fd0b466"
+    },
+    {
+      "file": "research/2026-06-06-exercise-snacks.md",
+      "historical_note_date": "2026-06-06",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "ebf0de48596c34ed182401d3b08e1ba9a42fce8013fd692dd2810951fb127df1"
+    },
+    {
+      "file": "research/2026-06-07-advanced-training-methods.md",
+      "historical_note_date": "2026-06-07",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "d0624b2d2a41499839d9c2cf3733c06987f8c9e3953d0304dee80d5d4825a6f7"
+    },
+    {
+      "file": "research/2026-06-08-minimal-dose-resistance-training.md",
+      "historical_note_date": "2026-06-08",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "cfeca07b7274a915bea6a98a8b8c0044b17994e3ba34d8a2d1cd729f756827e6"
+    },
+    {
+      "file": "research/2026-06-09-weekly-hypertrophy-focus-periodization.md",
+      "historical_note_date": "2026-06-09",
+      "status": "generalized-import-unverified",
+      "source_count": 5,
+      "sha256": "bd76c2b7940fee02a8c129d5f7fbea8d132da8a3d8e252dfa160b8d8d74e8825"
+    },
+    {
+      "file": "research/2026-06-10-autoregulated-load-progression.md",
+      "historical_note_date": "2026-06-10",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "97a77f6d4518a8b834df9d069a6c1de34c1e85e41860f1a6618b280a67565ef5"
+    },
+    {
+      "file": "research/2026-06-11-acsm-resistance-training-position-stand.md",
+      "historical_note_date": "2026-06-11",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "ac8af78280911fa0c2d03c8fceb5992dce28c289b2bc5b78fb20f7cf3dfd668a"
+    },
+    {
+      "file": "research/2026-06-12-cluster-sets-and-advanced-methods.md",
+      "historical_note_date": "2026-06-12",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "a85f391d150e618f0c1204ef12018648f4210161eac7bd8a3c8f36e2862e4f69"
+    },
+    {
+      "file": "research/2026-06-13-low-volume-hiit.md",
+      "historical_note_date": "2026-06-13",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "30e83f1c0c227e800901b9dc3a46f76c5444fc2d8b2eb1de5143cd2be6cf1957"
+    },
+    {
+      "file": "research/2026-06-14-zone-2-intensity-prescription.md",
+      "historical_note_date": "2026-06-14",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "807aa203722f82ab23d48dc63a159d84f29d3c139ceb136ec296e7937d6be84f"
+    },
+    {
+      "file": "research/2026-06-15-sleep-deprivation-training-performance.md",
+      "historical_note_date": "2026-06-15",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "104235e79ea43361e7c78c26178d431c45b7307fc677e158a8cbbf79eec9131f"
+    },
+    {
+      "file": "research/2026-06-16-scapular-control-calisthenics-prep.md",
+      "historical_note_date": "2026-06-16",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "e6951b1ee900eaf96b5dea692716c26c808498e4cf7a7cf8ada984f3a2e3c56c"
+    },
+    {
+      "file": "research/2026-06-17-drop-sets-time-efficient-hypertrophy.md",
+      "historical_note_date": "2026-06-17",
+      "status": "generalized-import-unverified",
+      "source_count": 4,
+      "sha256": "4c83b531c68fe97018a983a79ede22d7cb74e9befda7799c7ad32f787d708d3e"
+    },
+    {
+      "file": "research/2026-06-18-rest-pause-advanced-methods.md",
+      "historical_note_date": "2026-06-18",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "58c33e20055a1a8f6d94bc0f9aea23e49daf707ba4d6a751d71f1e2ac4256223"
+    },
+    {
+      "file": "research/2026-06-19-static-stretching-hypertrophy-rom.md",
+      "historical_note_date": "2026-06-19",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "c22f11aea7fc84c78eb3d396a699c2a332ef18b42d2b808fb8c1c87abde655a0"
+    },
+    {
+      "file": "research/2026-06-20-exercise-order-prioritization.md",
+      "historical_note_date": "2026-06-20",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "3f0460ea61b2c516d73c66f5fe09142d08f3502209e572419c8a76d7bd7fa3df"
+    },
+    {
+      "file": "research/2026-06-21-sprint-interval-training-bp-vo2.md",
+      "historical_note_date": "2026-06-21",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "ea8ab38e38b2a6163201418729a749c52adda687f4d2af6157fcc09a365b86c7"
+    },
+    {
+      "file": "research/2026-06-22-bracing-valsalva-resistance-training.md",
+      "historical_note_date": "2026-06-22",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "5481bf189010767ef1334bf142d20213ab92a9c2757a50b2307d53f14ac043eb"
+    },
+    {
+      "file": "research/2026-06-23-cold-water-immersion-hypertrophy.md",
+      "historical_note_date": "2026-06-23",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "64f3bd70148552c1815965bf76076cdcd66fd33ed4b04b1162d5efb80fa922db"
+    },
+    {
+      "file": "research/2026-06-24-heat-resistance-training.md",
+      "historical_note_date": "2026-06-24",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "c391c1a5d5b296800994447b9e696cdaf85c81e33d9369f911b36ada6822d6a0"
+    },
+    {
+      "file": "research/2026-06-25-concurrent-training-modality.md",
+      "historical_note_date": "2026-06-25",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "e2d34647e2275efddd8c95f96da94f2a972eee65dbbc9d2fb33685b875fb9c92"
+    },
+    {
+      "file": "research/2026-06-26-lifting-straps-grip-limited-pulling.md",
+      "historical_note_date": "2026-06-26",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "d011e97eccc735770962808b9b48dc3edb8d2f563b3fca0760ebec025c376ce9"
+    },
+    {
+      "file": "research/2026-06-27-myo-reps-time-efficient-hypertrophy.md",
+      "historical_note_date": "2026-06-27",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "89fa0ca9853c3e1a4aa43f76eb181b6cee4c3899df8f16a9f61c2364448a4089"
+    },
+    {
+      "file": "research/2026-06-28-attentional-focus-mind-muscle.md",
+      "historical_note_date": "2026-06-28",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "2cd6fd14f0d783a6b4968f21b0d579f9049b91afea985394745b55a149b266a7"
+    },
+    {
+      "file": "research/2026-06-29-foam-rolling-warmup-recovery.md",
+      "historical_note_date": "2026-06-29",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "d1ab7e1bffe0d7cab9c5864e2425f17041fecf701a8b65d265736fd3480f084d"
+    },
+    {
+      "file": "research/2026-06-30-wrist-loading-calisthenics-prep.md",
+      "historical_note_date": "2026-06-30",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "c4e89d1df55ecc604c02ddae06b8d9e6724d269c5aa523ed7d236377695edc40"
+    },
+    {
+      "file": "research/2026-07-01-technique-hypertrophy-priorities.md",
+      "historical_note_date": "2026-07-01",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "61e28c2b04bd2a6490173412e5b6bd36549a102294f5aebb54ba0f6e18541f1a"
+    },
+    {
+      "file": "research/2026-07-02-feedback-supervision-resistance-training.md",
+      "historical_note_date": "2026-07-02",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "0d7f74aefb3dd619d77bedb020f3024e6abc20dfc777159137884005be969dbd"
+    },
+    {
+      "file": "research/2026-07-03-inter-set-static-stretching.md",
+      "historical_note_date": "2026-07-03",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "d3017fff4645e6e75a51e99e136e9b7e49ff638b0df3c99af79612170fafb584"
+    },
+    {
+      "file": "research/2026-07-04-flywheel-resistance-training.md",
+      "historical_note_date": "2026-07-04",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "3d9076f3d38d9943332dff2a70f3a8d6b6da6afe3591cf57732ed46607b886ab"
+    },
+    {
+      "file": "research/2026-07-05-single-vs-multiple-sets.md",
+      "historical_note_date": "2026-07-05",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "964e3b28cb9a365603691afb5eb0a8829694383971155e4fb0bc30070b393fe9"
+    },
+    {
+      "file": "research/2026-07-06-exercise-selection-variation.md",
+      "historical_note_date": "2026-07-06",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "a4bdffbb117737f02ea0cb22ee7dfcff0b8d9818031885f6d0621862e5690fc4"
+    },
+    {
+      "file": "research/2026-07-07-resistance-training-prescription-variables.md",
+      "historical_note_date": "2026-07-07",
+      "status": "generalized-import-unverified",
+      "source_count": 1,
+      "sha256": "07b5591f0596c8701b283cff9bd7d7ec52daf7306c04b246cb24b3c825fa60e2"
+    },
+    {
+      "file": "research/2026-07-08-repetition-tempo-hypertrophy-update.md",
+      "historical_note_date": "2026-07-08",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "6410f5dbd61de478f46a8ef8e727fb0ffb6ecd0c25df5d9cb4eded4f1f1c43f8"
+    },
+    {
+      "file": "research/2026-07-09-proximity-to-failure-dose-response-update.md",
+      "historical_note_date": "2026-07-09",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "acaf7bbd2458e7f5e30d940913a31ac6ebff4bde5e5e85e0e3530a1cf02d9c15"
+    },
+    {
+      "file": "research/2026-07-10-rom-long-length-partials-update.md",
+      "historical_note_date": "2026-07-10",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "58524d99ffdcbb827fca9c71888436832836ff2066c703e46c6e0ef8af286444"
+    },
+    {
+      "file": "research/2026-07-11-velocity-loss-thresholds-performance.md",
+      "historical_note_date": "2026-07-11",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "ca3100af87aa4a6f163c0cc5d0e41d8516e3d3cfedf36c7f61d2513eb42e0ea3"
+    },
+    {
+      "file": "research/2026-07-12-resistance-training-blood-pressure.md",
+      "historical_note_date": "2026-07-12",
+      "status": "generalized-import-unverified",
+      "source_count": 4,
+      "sha256": "68292b953a421fe1169721805bc0e3ef10ddeafdfaae40c8df959b605dee3f53"
+    },
+    {
+      "file": "research/2026-07-13-isometric-resistance-training-blood-pressure.md",
+      "historical_note_date": "2026-07-13",
+      "status": "generalized-import-unverified",
+      "source_count": 1,
+      "sha256": "65e51070552ce3d18c07f9db74476462b96048592fe238761e01997c4c23a4b4"
+    },
+    {
+      "file": "research/2026-07-14-advanced-training-methods-hypertrophy.md",
+      "historical_note_date": "2026-07-14",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "266b3c2cce74e8568840662d5772405a9ba3584d4a5c187ef5a6e0485040ac10"
+    },
+    {
+      "file": "research/2026-07-15-resistance-training-prescription-hierarchy.md",
+      "historical_note_date": "2026-07-15",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "97f47d5f9a913bd203525f1b60cf9bea54848c2fe821587bf98ef3f5b7263d34"
+    },
+    {
+      "file": "research/2026-07-16-cooling-strategies-resistance-training.md",
+      "historical_note_date": "2026-07-16",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "f97e43815be62ebb4e808c92d10306febf34c6b70a2dc2e6b9ed36b27a07a97b"
+    },
+    {
+      "file": "research/2026-07-17-carbohydrate-fueling-resistance-training.md",
+      "historical_note_date": "2026-07-17",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "ff14a4a3a3c92025f1043cff2686379957e060c72adeef2da91f274b17e66190"
+    },
+    {
+      "file": "research/2026-07-18-rotator-cuff-shoulder-prep.md",
+      "historical_note_date": "2026-07-18",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "7c04c95e351314e24028c9021949b202a1acde3a2e76f2e9250a97d8601d925e"
+    },
+    {
+      "file": "research/2026-07-19-progressive-push-up-calisthenics.md",
+      "historical_note_date": "2026-07-19",
+      "status": "generalized-import-unverified",
+      "source_count": 3,
+      "sha256": "728615bf653d99cf69ba8bc13f431aab73edee0dd5d9346e506d9f14e60295d1"
+    },
+    {
+      "file": "research/2026-09-12-acsm-resistance-training-position-stand.md",
+      "historical_note_date": "2026-09-12",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "989d0d950bd7ca4799e098b22a64717fae48b60759a0166a6bf66ad2b338c6ff"
+    },
+    {
+      "file": "research/2026-09-14-reduced-dose-maintenance-training.md",
+      "historical_note_date": "2026-09-14",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "e2fc3758ba9a43c61de426ef0107c4dc47822f93044da1b691bf2d0d0d8c999f"
+    },
+    {
+      "file": "research/2026-09-15-mhealth-resistance-training-evidence.md",
+      "historical_note_date": "2026-09-15",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "0fb6d50e95c94f1002c171a203d2e2ac5032b7cfa7ab4b01647255b26c7457c3"
+    },
+    {
+      "file": "research/2026-09-16-early-consistency-long-term-adherence.md",
+      "historical_note_date": "2026-09-16",
+      "status": "generalized-import-unverified",
+      "source_count": 1,
+      "sha256": "8d1b7d37528fbf6856f51cc883b1da8ed4f85d212cd80641cdb4f194cc7a11cd"
+    },
+    {
+      "file": "research/2026-09-17-resistance-training-adherence-interventions.md",
+      "historical_note_date": "2026-09-17",
+      "status": "generalized-import-unverified",
+      "source_count": 1,
+      "sha256": "f8adba76216c2feb2c7a03a0672f84a539c3a09369a4b9132773276c1378cd56"
+    },
+    {
+      "file": "research/2026-09-18-supersets-time-efficiency.md",
+      "historical_note_date": "2026-09-18",
+      "status": "generalized-import-unverified",
+      "source_count": 1,
+      "sha256": "649e4bb7a9901d03f0d2e40b41ccb809ad9ad33d93bb2a7b48c60c350fa55e34"
+    },
+    {
+      "file": "research/2026-09-19-low-volume-hiit-dose.md",
+      "historical_note_date": "2026-09-19",
+      "status": "generalized-import-unverified",
+      "source_count": 2,
+      "sha256": "abede57229acb6592bbd673b1457916bf7164046034ab2224c7e452463003f81"
+    }
+  ]
+}
