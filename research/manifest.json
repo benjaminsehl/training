@@ -20,7 +20,7 @@
       "historical_note_date": "2026-05-05",
       "status": "generalized-import-unverified",
       "source_count": 3,
-      "sha256": "7cea9eab10308bd139ee461ea4eb02e1385be244376225e8bb7b84d414d41e54"
+      "sha256": "171576cf230e55b0bd8c069b09bf7b1f9ed1a3dadd7b11bf864a34870fa1b297"
     },
     {
       "file": "research/2026-05-06-beginner-calisthenics-integration.md",
@@ -41,7 +41,7 @@
       "historical_note_date": "2026-05-08",
       "status": "generalized-import-unverified",
       "source_count": 3,
-      "sha256": "b06a25f7708e251a3497869eff01056d53ea044648a567d3275f02d6ca1d1671"
+      "sha256": "b2f7919fd966a278a66b032d7cc21dc8a5a5bb070ad3d7aa2bb26cb07e8efa9a"
     },
     {
       "file": "research/2026-05-09-exercise-order-prioritization.md",
@@ -118,7 +118,7 @@
       "historical_note_date": "2026-05-19",
       "status": "generalized-import-unverified",
       "source_count": 3,
-      "sha256": "1b7655008b324a18bdcb5ff81f2560c18af3128d65126e2803ccc8ff9583e900"
+      "sha256": "190e3fabab75f3b7b718dc66020a457e61a730f32b5170ec58d11207b576bbda"
     },
     {
       "file": "research/2026-05-20-weekly-volume-hypertrophy.md",
@@ -181,7 +181,7 @@
       "historical_note_date": "2026-06-02",
       "status": "generalized-import-unverified",
       "source_count": 2,
-      "sha256": "9c78faa54e85d45ee60127391a39d4447676a14c2543c3b45d64b73c2447a71d"
+      "sha256": "d9d7576bafdde1875179d395d40216c7d2766f56a0308789c17510df6081aa0c"
     },
     {
       "file": "research/2026-06-03-eccentric-tempo.md",
@@ -258,14 +258,14 @@
       "historical_note_date": "2026-06-13",
       "status": "generalized-import-unverified",
       "source_count": 2,
-      "sha256": "30e83f1c0c227e800901b9dc3a46f76c5444fc2d8b2eb1de5143cd2be6cf1957"
+      "sha256": "182295c7efdd8d0768c2f44b8eb229bac0072d4eabcea8e5f7b3979d93d61e87"
     },
     {
       "file": "research/2026-06-14-zone-2-intensity-prescription.md",
       "historical_note_date": "2026-06-14",
       "status": "generalized-import-unverified",
       "source_count": 3,
-      "sha256": "807aa203722f82ab23d48dc63a159d84f29d3c139ceb136ec296e7937d6be84f"
+      "sha256": "d88f6d2cfb7dd41a6dc458eaa79c11b724fa9a2658b9aca5e02b4b71de143c8e"
     },
     {
       "file": "research/2026-06-15-sleep-deprivation-training-performance.md",
@@ -300,7 +300,7 @@
       "historical_note_date": "2026-06-19",
       "status": "generalized-import-unverified",
       "source_count": 3,
-      "sha256": "c22f11aea7fc84c78eb3d396a699c2a332ef18b42d2b808fb8c1c87abde655a0"
+      "sha256": "ec77cd179c53328d4bcb98ff4272edf81bec0d89bb246f37d1b9c4d2567d7e80"
     },
     {
       "file": "research/2026-06-20-exercise-order-prioritization.md",
@@ -335,7 +335,7 @@
       "historical_note_date": "2026-06-24",
       "status": "generalized-import-unverified",
       "source_count": 2,
-      "sha256": "c391c1a5d5b296800994447b9e696cdaf85c81e33d9369f911b36ada6822d6a0"
+      "sha256": "c9eda03205d24e2847b1ed88f1e66cc6392f0c59e7403b8a4e6f95c3d3f99e5f"
     },
     {
       "file": "research/2026-06-25-concurrent-training-modality.md",
@@ -405,7 +405,7 @@
       "historical_note_date": "2026-07-04",
       "status": "generalized-import-unverified",
       "source_count": 3,
-      "sha256": "3d9076f3d38d9943332dff2a70f3a8d6b6da6afe3591cf57732ed46607b886ab"
+      "sha256": "4f7e8ff977612936b67d9ac63e82776c0d4581d5f87eabd7ec49b139c5f2d7a9"
     },
     {
       "file": "research/2026-07-05-single-vs-multiple-sets.md",
@@ -489,7 +489,7 @@
       "historical_note_date": "2026-07-16",
       "status": "generalized-import-unverified",
       "source_count": 3,
-      "sha256": "f97e43815be62ebb4e808c92d10306febf34c6b70a2dc2e6b9ed36b27a07a97b"
+      "sha256": "147bef443f9d22e65c7c66f99ed74091edda94cf634e5337d18597ff71c2a06a"
     },
     {
       "file": "research/2026-07-17-carbohydrate-fueling-resistance-training.md",
@@ -531,7 +531,7 @@
       "historical_note_date": "2026-09-15",
       "status": "generalized-import-unverified",
       "source_count": 2,
-      "sha256": "0fb6d50e95c94f1002c171a203d2e2ac5032b7cfa7ab4b01647255b26c7457c3"
+      "sha256": "8d2b65e6e0e2a39ccaa526d02ee2e10a45e8b1d322c8a7939c1b264eb9bbb536"
     },
     {
       "file": "research/2026-09-16-early-consistency-long-term-adherence.md",

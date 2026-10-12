@@ -8,7 +8,7 @@ Status: imported research summary; underlying sources and bibliographic details 
 
 The imported note reports the following interpretation:
 
-The heat review combines plausible mechanisms with limited direct training evidence. Findings from cells, animals, passive heating, or cooling during endurance exercise cannot establish that exercising in heat improves resistance-training hypertrophy.
+The heat review combines plausible mechanisms with limited direct training evidence. The imported cooling synthesis reports that cooling can improve performance in hot conditions, especially when applied to the head, face, neck, or torso, but it primarily concerns heat-management performance rather than muscle growth. Findings from cells, animals, passive heating, or cooling during endurance exercise cannot establish that exercising in heat improves resistance-training hypertrophy.
 
 ## Reported public source locators
 

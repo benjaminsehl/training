@@ -8,7 +8,7 @@ Status: imported research summary; underlying sources and bibliographic details 
 
 The imported note reports the following interpretation:
 
-Flywheel reviews support investigation of eccentric-loading and power outcomes, with uncertain superiority for maximal strength or hypertrophy. Protocol and comparator differences limit conclusions about replacing conventional resistance exercise.
+Flywheel reviews support investigation of eccentric-loading and power outcomes. The imported comparison reports no clear maximal-strength advantage and a small pooled power advantage, with results varying by protocol and comparator. These differences limit conclusions about hypertrophy or replacing conventional resistance exercise.
 
 ## Reported public source locators
 

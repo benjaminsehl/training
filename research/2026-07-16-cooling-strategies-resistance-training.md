@@ -8,7 +8,7 @@ Status: imported research summary; underlying sources and bibliographic details 
 
 The imported note reports the following interpretation:
 
-The palm/sole-cooling synthesis was a preprint and reported uncertain acute performance effects. Cooling during hot endurance exercise and immediate post-lifting immersion answer different questions and cannot jointly establish a hypertrophy-enhancing cooling routine.
+The palm/sole-cooling synthesis was a preprint and reported uncertain acute performance effects. The imported note reports that internal cooling may help endurance performance in hot conditions, while immediate post-lifting cold-water immersion may modestly attenuate hypertrophy; the latter evidence was limited and specific to prompt post-exercise use. These interventions answer different questions and cannot jointly establish a hypertrophy-enhancing cooling routine.
 
 ## Reported public source locators
 

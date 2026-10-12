@@ -8,7 +8,7 @@ Status: imported research summary; underlying sources and bibliographic details 
 
 The imported note reports the following interpretation:
 
-The low-volume interval review reports fitness improvements in non-athlete adults with brief sessions. Nonsignificant differences versus longer training do not prove equivalence, and comparisons of interval versus sprint formats remain population- and protocol-dependent.
+The low-volume interval review reports fitness improvements in non-athlete adults with brief sessions, alongside improvements in several cardiometabolic measures. Its exploratory dose-response analysis was summarized as suggesting that intensity mattered more for aerobic-fitness gains than adding interval repetitions or session time. Nonsignificant differences versus longer training do not prove equivalence, and comparisons of interval versus sprint formats remain population- and protocol-dependent.
 
 ## Reported public source locators
 

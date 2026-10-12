@@ -8,7 +8,7 @@ Status: imported research summary; underlying sources and bibliographic details 
 
 The imported note reports the following interpretation:
 
-A deload consensus statement and a trial of one week without training address different interventions. The trial did not show a growth advantage from complete cessation; evidence is insufficient to prescribe a universal deload calendar or equate cessation with reduced-load training.
+A deload consensus statement and a trial of one week without training address different interventions. The imported note reports no hypertrophy, endurance, or power advantage from complete cessation and a modest lower-body-strength advantage for continuous training. Evidence is insufficient to prescribe a universal deload calendar or equate cessation with reduced-load training.
 
 ## Reported public source locators
 
