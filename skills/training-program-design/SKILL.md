@@ -7,7 +7,7 @@ description: Use when building or comparing resistance-training programs, select
 
 Read [context and evidence](../references/context-and-evidence.md). Establish goals, current block, training history, reliable days, session length, equipment by location and competing demands.
 
-1. Identify the binding constraint and preserve a working program unless the requested change solves it. Choose the relevant [program mode](references/program-modes.md).
+1. Identify the binding constraint and preserve a working program unless the requested change solves it. Choose the relevant [program mode](references/program-modes.md) and use the [design priorities](references/design-priorities.md) to avoid optimizing secondary details before the plan is feasible and measurable.
 2. Compare feasible schedules by coverage, recovery, session quality and missed-day behavior. A split names the distribution of work, not its effectiveness. Use [split decisions](references/split-decisions.md).
 3. Set a defensible starting dose from current completed work and tolerability; otherwise mark it as a conservative trial proposal. Separate direct and indirect muscle work. Do not turn research averages into mandatory personal volume.
 4. Specify exercise roles, work/effort/rest targets, progression criteria and a review point. Explain how missed sessions roll forward, what can be trimmed, and which changes require reassessment.

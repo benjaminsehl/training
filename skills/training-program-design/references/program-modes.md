@@ -10,9 +10,13 @@ Define priority muscles and sustainable training opportunities. Select repeatabl
 
 Name the task to improve: a particular lift/variation, rep strength or testing outcome. Preserve specific practice and compare the same execution standard. Arrange assistance to support the priority task without making every session a max test. Stronger frequency associations in [reviewed evidence](../../references/source-checks-2026-10-12.md) do not dictate daily heavy training. A peaking schedule or percentage-based block requires valid current performance and the actual target date; do not invent a 1RM from an uncalibrated effort label.
 
-## Time-constrained or maintenance
+## Time-constrained hypertrophy
 
-Clarify whether the user still wants growth or temporarily wants to preserve capacity. A reduced-dose fallback is not a promise of equal growth. Keep a feasible exposure to important patterns and quality execution, reduce optional work, and define how normal training resumes. Do not accumulate make-up sessions after disruption. If illness, injury or restrictions caused the interruption, their constraints take precedence over maintaining intensity. A personal maintenance minimum is not established by this skill; consult relevant source evidence when the exact dose matters.
+If growth remains the goal, preserve a small number of progression-critical exercises and work sets that maintain intended effort, execution standards and progression comparability before optional variety. Reduce setup-heavy redundancy and lower-priority accessories before rushing important sets. Compatible pairings can save time, but consult the [rest review](../../../evidence/2026-10-12-rest-recovery-time-efficiency.md) and monitor whether performance remains interpretable. A shorter plan is a constrained growth proposal, not a claim that minimum volume is universally optimal or equal to a higher recoverable dose. Define the time budget, what was removed, and a review point for performance and adherence.
+
+## Reduced-dose maintenance
+
+Clarify that the immediate goal is preserving capacity rather than maximizing growth. A reduced-dose fallback is not a promise of complete retention. Keep a feasible exposure to important patterns and quality execution, reduce optional work, and define how normal training resumes. Do not accumulate make-up sessions after disruption. If illness, injury or restrictions caused the interruption, their constraints take precedence over maintaining intensity. A personal maintenance minimum is not established by this skill; consult relevant source evidence when the exact dose matters.
 
 ## Minimal equipment or calisthenics
 
