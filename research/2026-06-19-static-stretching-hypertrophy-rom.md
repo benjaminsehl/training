@@ -8,7 +8,7 @@ Status: imported research summary; underlying sources and bibliographic details 
 
 The imported note reports the following interpretation:
 
-Static-stretching reviews report reliable flexibility effects and smaller, less certain muscle-size effects, often under unusually large stretching doses. These results do not establish stretching as an efficient substitute for resistance training, and acute pre-exercise effects are a separate question.
+Static-stretching reviews report reliable flexibility effects and smaller, less certain muscle-size effects, often under unusually large stretching doses. A separate cited synthesis was summarized as finding that resistance training through meaningful ranges improved range of motion similarly to stretching. These results do not establish stretching as an efficient substitute for resistance training, and acute pre-exercise effects are a separate question.
 
 ## Reported public source locators
 

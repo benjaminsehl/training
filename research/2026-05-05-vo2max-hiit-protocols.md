@@ -8,7 +8,7 @@ Status: imported research summary; underlying sources and bibliographic details 
 
 The imported note reports the following interpretation:
 
-The cited syntheses report aerobic-fitness improvements from both intervals and continuous exercise, with intervals potentially offering time savings. Comparisons across interval durations do not establish one optimal protocol for every population or a required weekly dose.
+The cited syntheses report aerobic-fitness improvements from both intervals and continuous exercise, with intervals potentially offering time savings. The concurrent-training source was summarized as generally preserving whole-muscle hypertrophy while same-session pairing was less favorable for explosive-strength outcomes. Comparisons across interval durations do not establish one optimal protocol for every population or a required weekly dose.
 
 ## Reported public source locators
 

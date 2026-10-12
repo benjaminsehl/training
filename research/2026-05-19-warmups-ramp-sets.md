@@ -8,7 +8,7 @@ Status: imported research summary; underlying sources and bibliographic details 
 
 The imported note reports the following interpretation:
 
-Warm-up reviews address acute readiness and performance rather than demonstrating additional muscle growth. Temperature-related effects appear stronger for rapid force production than maximal force, and the resistance-specific evidence is limited and mixed.
+Warm-up reviews address acute readiness and performance rather than demonstrating additional muscle growth. Temperature-related effects appear stronger for rapid force production than maximal force. The limited resistance-specific evidence was summarized as finding that movement-specific warm-ups sometimes matched or exceeded combined general-plus-specific routines, and that heavier movement-specific warm-ups sometimes improved strength or repetition performance.
 
 ## Reported public source locators
 

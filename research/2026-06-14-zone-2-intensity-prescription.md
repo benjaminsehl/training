@@ -8,7 +8,7 @@ Status: imported research summary; underlying sources and bibliographic details 
 
 The imported note reports the following interpretation:
 
-The imported expert viewpoint defines a low-intensity zone using physiological thresholds rather than a universal heart-rate percentage. Marker variability and the distinction between expert consensus and intervention evidence limit precision when those thresholds have not been measured.
+The imported expert viewpoint defines a low-intensity zone using physiological thresholds rather than a universal heart-rate percentage. A cited controlled-study synthesis was summarized as finding larger mean aerobic-fitness gains when intensity was prescribed relative to physiological thresholds rather than percentage-based anchors. Marker variability and the distinction between expert consensus and intervention evidence limit precision when those thresholds have not been measured.
 
 ## Reported public source locators
 

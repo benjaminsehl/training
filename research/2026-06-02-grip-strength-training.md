@@ -8,7 +8,7 @@ Status: imported research summary; underlying sources and bibliographic details 
 
 The imported note reports the following interpretation:
 
-Grip strength can be a health marker without proving that isolated grip training changes long-term health outcomes. The cited intervention evidence is heterogeneous and includes a conference abstract; transfer from general resistance exercise to handgrip performance is not assured.
+Grip strength can be a health marker without proving that isolated grip training changes long-term health outcomes. The cited intervention evidence is heterogeneous: the imported note reports that 12 of 20 studies in the review found no significant resistance-training advantage over control, while a conference abstract reported that resistance training helped preserve grip strength in inactive adults with overweight or obesity. Transfer from general resistance exercise to handgrip performance is not assured.
 
 ## Reported public source locators
 

@@ -8,7 +8,7 @@ Status: imported research summary; underlying sources and bibliographic details 
 
 The imported note reports the following interpretation:
 
-The mHealth review reports small average fitness benefits versus inactive or usual-care comparators, but very few studies measured participation change. App features therefore remain candidate supports rather than demonstrated causes of durable adherence or substitutes for completed training.
+The mHealth review reports small average fitness benefits versus inactive or usual-care comparators, with a moderate pooled lower-body effect and no significant pooled upper-body effect in the imported summary. Most samples were clinical, prescription details were often incomplete, and very few studies measured participation change. App features therefore remain candidate supports rather than demonstrated causes of durable adherence or substitutes for completed training.
 
 ## Reported public source locators
 
